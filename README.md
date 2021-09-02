@@ -11,7 +11,7 @@ API Documentation [https://sendpulse.com/api](https://sendpulse.com/api)
 ### Installation
 
 ```shell
-go get -u github.com/dimuska139/sendpulse-sdk-go/sendpulse
+go get -u github.com/zhashkevych/sendpulse-sdk-go
 ```
 
 ### Usage
@@ -20,7 +20,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/dimuska139/sendpulse-sdk-go/sendpulse"
+	"github.com/zhashkevych/sendpulse-sdk-go/sendpulse"
 	"net/http"
 )
 
